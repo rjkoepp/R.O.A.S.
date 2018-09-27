@@ -1,10 +1,6 @@
 # R.O.A.S.
 Finite State Machine I worked on as an incoming freshman to UCSD. 
 
-
-<img src='https://www.youtube.com/watch?v=SDBfA-HEzTM
-' title='Video Demo' width='' alt='Video Demo' />
-
 [![Alt text](https://img.youtube.com/vi/SDBfA-HEzTM/0.jpg)](https://www.youtube.com/watch?v=SDBfA-HEzTM)
 
 
