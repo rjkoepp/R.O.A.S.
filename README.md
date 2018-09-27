@@ -8,6 +8,5 @@ Finite State Machine I worked on as an incoming freshman to UCSD.
 
 <img src='https://cloud.githubusercontent.com/assets/20780818/21741580/54247bce-d48f-11e6-86e8-a00068aedbdf.png' title='Pres' width='' alt='Pres' />
 
-<img src='https://cloud.githubusercontent.com/assets/20780818/21741581/5431faba-d48f-11e6-8393-0041631d6d77.png
-' title='Pres' width='' alt='Pres' />
+<img src='https://cloud.githubusercontent.com/assets/20780818/21741581/5431faba-d48f-11e6-8393-0041631d6d77.png' title='Pres' width='' alt='Pres' />
 
